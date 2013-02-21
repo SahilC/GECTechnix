@@ -1,0 +1,105 @@
+body{
+    background:rgba(28,47,126,0.2) url(../images/events_tiles.jpg) repeat;
+}
+.black{
+    color:#fff;
+}
+.white{
+    color:#fff;
+}
+.black ul li{
+    color:#aaa;
+}
+.black ul li a{
+    color:#f0f0f0;
+}
+.black ul li a:hover{
+    color:#fff;
+}
+.white ul li{
+    color:#aaa;
+}
+.white ul li a{
+    color:#222;
+}
+.white ul li a:hover{
+    color:#000;
+}
+#banner {
+    background-color: #000;
+}
+
+#banner li {
+    color: #eee;
+}
+#banner a img{
+    background-color: #fff;
+    border:5px solid rgb(114,104,170);
+}
+#banner a img:hover{
+    background-color: rgb(108,98,163);
+	-webkit-transition: background 1s ease-in-out;
+-moz-transition: background 1s ease-in-out;
+-o-transition: background 1s ease-in-out;
+-ms-transition: background 1s ease-in-out; 
+transition: background 1s ease-in-out;
+}
+#active{
+background:rgba(28,47,126,0.2) url(../images/events_tiles.jpg) repeat;
+}
+#menu
+{
+    background-color: rgba(255,255,255,0.8);
+}
+#menu a{
+    background-color:rgb(114,104,170)
+}
+#menu a:link {
+COLOR: #FFFFFF;
+}
+#menu a:visited {
+COLOR: #ffffff;
+}
+#menu a:hover {
+    COLOR: rgb(28,47,126);
+    background-color: #aaa;
+}
+#menu a:active {
+COLOR: #009900;
+}
+#lower{
+    background-color: #fff;
+} 
+#bar
+{
+  background-color:rgb(114,104,170);
+  color:white;
+}
+.gec
+{
+    color:#000;
+}
+a:link {
+color: #eee;
+}
+a:visited {
+COLOR: #eee;
+}
+a:hover {
+    color: rgb(28,47,126);
+    -moz-transition: color 1s linear;
+    -webkit-transition: color 1s linear;
+    transition: color 1s linear;
+}
+a:active {
+COLOR: #009900;
+}
+#not
+{
+    color:#000;
+    background-color: #bbb;
+}
+.notific
+{
+    color:#eee;
+}

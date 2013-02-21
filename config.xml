@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="1024"
+	maxImageHeight="768"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	resizeOnImport="false"
+	useFlickr="false"
+	cropToFit="false"
+	galleryTitle="Technix 6.0"
+	showOpenButton="true"
+	galleryWidth="100%"
+	indexPageName="photogallery.html"
+
+>
+  <image imageURL="images/DSCF4577.jpg"
+	thumbURL="thumbs/DSCF4577.jpg"
+	linkURL="images/DSCF4577.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4577]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF4641.jpg"
+	thumbURL="thumbs/DSCF4641.jpg"
+	linkURL="images/DSCF4641.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4641]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF4555.jpg"
+	thumbURL="thumbs/DSCF4555.jpg"
+	linkURL="images/DSCF4555.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4555]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF4538.jpg"
+	thumbURL="thumbs/DSCF4538.jpg"
+	linkURL="images/DSCF4538.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4538]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF4536.jpg"
+	thumbURL="thumbs/DSCF4536.jpg"
+	linkURL="images/DSCF4536.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4536]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF4581.jpg"
+	thumbURL="thumbs/DSCF4581.jpg"
+	linkURL="images/DSCF4581.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4581]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF4535.jpg"
+	thumbURL="thumbs/DSCF4535.jpg"
+	linkURL="images/DSCF4535.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4535]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF4586.jpg"
+	thumbURL="thumbs/DSCF4586.jpg"
+	linkURL="images/DSCF4586.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4586]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF4673.jpg"
+	thumbURL="thumbs/DSCF4673.jpg"
+	linkURL="images/DSCF4673.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4673]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF4574.jpg"
+	thumbURL="thumbs/DSCF4574.jpg"
+	linkURL="images/DSCF4574.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4574]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF4587.jpg"
+	thumbURL="thumbs/DSCF4587.jpg"
+	linkURL="images/DSCF4587.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4587]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF4549.jpg"
+	thumbURL="thumbs/DSCF4549.jpg"
+	linkURL="images/DSCF4549.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4549]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF4670.jpg"
+	thumbURL="thumbs/DSCF4670.jpg"
+	linkURL="images/DSCF4670.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4670]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF4579.jpg"
+	thumbURL="thumbs/DSCF4579.jpg"
+	linkURL="images/DSCF4579.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4579]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF4545.jpg"
+	thumbURL="thumbs/DSCF4545.jpg"
+	linkURL="images/DSCF4545.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4545]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF4572.jpg"
+	thumbURL="thumbs/DSCF4572.jpg"
+	linkURL="images/DSCF4572.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4572]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF4584.jpg"
+	thumbURL="thumbs/DSCF4584.jpg"
+	linkURL="images/DSCF4584.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4584]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF4547.jpg"
+	thumbURL="thumbs/DSCF4547.jpg"
+	linkURL="images/DSCF4547.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4547]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF4314.jpg"
+	thumbURL="thumbs/DSCF4314.jpg"
+	linkURL="images/DSCF4314.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4314]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF4564.jpg"
+	thumbURL="thumbs/DSCF4564.jpg"
+	linkURL="images/DSCF4564.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4564]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF4534.jpg"
+	thumbURL="thumbs/DSCF4534.jpg"
+	linkURL="images/DSCF4534.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4534]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF4310.jpg"
+	thumbURL="thumbs/DSCF4310.jpg"
+	linkURL="images/DSCF4310.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4310]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF4318.jpg"
+	thumbURL="thumbs/DSCF4318.jpg"
+	linkURL="images/DSCF4318.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4318]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF4406.jpg"
+	thumbURL="thumbs/DSCF4406.jpg"
+	linkURL="images/DSCF4406.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4406]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF4272.jpg"
+	thumbURL="thumbs/DSCF4272.jpg"
+	linkURL="images/DSCF4272.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4272]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF4566.jpg"
+	thumbURL="thumbs/DSCF4566.jpg"
+	linkURL="images/DSCF4566.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4566]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF4524.jpg"
+	thumbURL="thumbs/DSCF4524.jpg"
+	linkURL="images/DSCF4524.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4524]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF4640.jpg"
+	thumbURL="thumbs/DSCF4640.jpg"
+	linkURL="images/DSCF4640.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4640]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF4664.jpg"
+	thumbURL="thumbs/DSCF4664.jpg"
+	linkURL="images/DSCF4664.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4664]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF4268.jpg"
+	thumbURL="thumbs/DSCF4268.jpg"
+	linkURL="images/DSCF4268.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4268]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF4274.jpg"
+	thumbURL="thumbs/DSCF4274.jpg"
+	linkURL="images/DSCF4274.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4274]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF4645.jpg"
+	thumbURL="thumbs/DSCF4645.jpg"
+	linkURL="images/DSCF4645.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4645]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF4522.jpg"
+	thumbURL="thumbs/DSCF4522.jpg"
+	linkURL="images/DSCF4522.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4522]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF4647.jpg"
+	thumbURL="thumbs/DSCF4647.jpg"
+	linkURL="images/DSCF4647.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSCF4647]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

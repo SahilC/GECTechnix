@@ -1,0 +1,113 @@
+body{
+    background:#000;
+    background:rgba(200,193,0,0.2) url(../images/lectures_tile.jpg) repeat;
+}
+.black{
+    color:#fff;
+}
+.white{
+    color:rgb(200,193,0);
+}
+.black ul li{
+    color:#aaa;
+}
+.black ul li a{
+    color:#f0f0f0;
+}
+.black ul li a:hover{
+    color:#fff;
+}
+.white ul li{
+    color:#aaa;
+}
+.white ul li a{
+    color:#222;
+}
+.white ul li a:hover{
+    color:#000;
+}
+#banner {
+    background-color: #000;
+    border-bottom: 1px solid #000;
+}
+#active{
+background:rgba(200,193,0,0.2) url(../images/lectures_tile.jpg) repeat;
+}
+#banner li {
+    color: #eee;
+}
+#banner a img{
+    background-color: #fff;
+    border:5px solid rgb(200,193,0);
+    border-radius:10px 10px 10px 10px;
+    -moz-border-radius:10px 10px 10px 10px;
+    -webkit-border-radius:10px 10px 10px 10px;
+    -o-border-radius:10px 10px 10px 10px;
+    box-shadow: 0 0 0 1px #000;
+}
+#banner a img:hover{
+    background-color: rgb(196,186,0);
+	-webkit-transition: background 1s ease-in-out;
+-moz-transition: background 1s ease-in-out;
+-o-transition: background 1s ease-in-out;
+-ms-transition: background 1s ease-in-out; 
+transition: background 1s ease-in-out;
+}
+#menu
+{
+    background-color: rgba(255,255,255,0.8);
+}
+
+#menu a{
+    background-color:rgb(200,193,0);
+}
+#menu a:link {
+COLOR: #FFFFFF;
+}
+#menu a:visited {
+COLOR: #ffffff;
+}
+#menu a:hover {
+    COLOR: rgb(256,147,22);
+    background-color: #ffffff;
+}
+#menu a:active {
+COLOR: #009900;
+}
+#lower{
+    background-color: #fff;
+} 
+#bar
+{
+  background-color:rgb(200,193,0);
+  color:white;
+}
+.gec
+{
+    color:#000;
+}
+a:link {
+color: #eee;
+}
+a:visited {
+COLOR: #eee;
+}
+a:hover {
+    color: rgb(256,147,22);
+    -moz-transition: color 1s linear;
+    -webkit-transition: color 1s linear;
+    transition: color 1s linear;
+}
+a:active {
+COLOR: #009900;
+}
+#not
+{
+    color:#000;
+    background-color: #bbb;
+}
+.notific
+{
+
+    color:#eee;
+}

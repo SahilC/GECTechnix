@@ -1,0 +1,189 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background:#000;
+    letter-spacing:-1px;
+}
+@font-face
+{
+    font-family:"Coolthing";
+    src:url('../fonts/Digital Sans EF Medium.ttf');
+}
+.section{
+    margin:0px;
+    height:4000px;
+    width:100%;
+    font-size: 175%;
+    position:relative;
+    float:left;
+   font-family: 'Nova Square', cursive;
+}
+.section h2{
+    position: relative;
+    left:14%;
+    top:1%;
+    margin:50px 0px 30px 50px;
+}
+.section p{
+    position: relative;
+    left:7%;
+    top:2%;
+    margin:20px 0px 0px 50px;
+    width:600px;
+}
+.section img{
+    position:absolute;
+    left:63%;
+	width:35%;
+	height:12%;
+}
+.section ul{
+    list-style:none;
+    margin:20px 0px 0px 550px;
+}
+.black ul li{
+    float:left;
+    padding:5px;
+    margin:5px;
+}
+.black ul li a{
+    display:block;
+}
+.black ul li a:hover{
+    text-decoration:none;
+}
+.white ul li{
+    float:left;
+    padding:5px;
+    margin:5px;
+}
+.white ul li a{
+    display:block;
+}
+.white ul li a:hover{
+    text-decoration:none;
+}
+#banner {
+    z-index:1;
+    position: fixed;
+    width: 100%;
+    padding: 0 30px;
+    line-height: 50px;
+    font-family: 'Monda', sans-serif;
+    border-bottom: 1px solid #000;
+}
+
+#banner ul {
+    display: inline;
+    position:relative;
+    left:15%;
+}
+
+#banner li {
+    font-size: 18px;
+    display: inline;
+    margin: 0 15px;
+}
+#banner li a{
+    text-decoration: none;
+    padding: 0.5% 0.5% 0.5% 0.5%;
+}
+#banner a img{
+    position: absolute;
+    left:5%;
+    width:8%;
+    height:200%;
+    border-radius:10px 10px 10px 10px;
+    -moz-border-radius:10px 10px 10px 10px;
+    -webkit-border-radius:10px 10px 10px 10px;
+    -o-border-radius:10px 10px 10px 10px;
+    box-shadow: 0 0 0 1px #000;
+}
+#menu
+{
+    z-index:2;
+    position:fixed;
+    font-size: 150%;
+    font-family: 'BenchNine', sans-serif;
+    width: 17%;
+    height: 87%;
+    left:-18%;
+    top:8%;
+    padding: 10px 10px;
+    line-height: 45px;
+}
+#menu li{ 
+    text-align: left;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+#menu a{
+    text-align: center;
+    position: absolute;
+    height:7%;
+    width: 90%;
+}
+#menu a:link {
+text-decoration:  none;
+}
+#menu a:visited {
+text-decoration:  none;
+}
+#menu a:hover {
+    height:9%;
+    text-decoration:  none;
+}
+#menu a:active {
+text-decoration:  none;
+}
+#college
+{
+    font-family:Coolthing;
+    position:fixed;
+    left:75%;
+    top:80%;
+    width:25%;
+}
+#social a{
+    padding:5px 20px 5px 20px;
+}
+#lower{
+    position: fixed;
+    top:70%;
+    width:100%;
+    height: 100%;
+} 
+#bar
+{
+  height:25px;
+  left:0;
+  min-width:20px;
+  position:fixed;
+  top:70%;
+  width:100%;
+}
+.gec
+{
+    font-family: @Coolthing;
+}
+
+#not
+{
+    text-align: center;
+    font-family:Coolthing;
+    width:10%;
+    height: 100%;
+    font-size: 120%;
+    position: absolute;
+    left:1%;
+}
+.notific
+{
+    font-family: 'BenchNine', sans-serif;
+    position: absolute;
+    font-size: 120%;
+    top:0%;
+    left:45%;
+}

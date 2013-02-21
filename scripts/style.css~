@@ -1,0 +1,137 @@
+@font-face
+{
+	font-family:"Coolthing";
+	src:url('../fonts/Digital Sans EF Medium.ttf');
+}
+#presents
+{
+	text-align: center;
+	font-family:Coolthing;
+	background-color:#eee;
+	height: 70%; 
+}
+#college
+{
+	font-family:Coolthing;
+	position:absolute;
+	left:75%;
+	top:80%;
+	width:25%;
+}
+#bar
+{
+  background-color:black;
+  color:white;
+  height:25px;
+  left:0;
+  min-width:20px;
+  position:absolute;
+  top:70%;
+  width:100%;
+}
+#gec
+{
+	font-family: 'BenchNine', sans-serif;
+}
+.item
+{
+	position:relative;
+	top:-250px;
+	background-color:rgba(0,0,0,0.8);
+	color:#eee;
+	text-align:center;
+	z-index:3;
+}
+ul.con
+{
+	position:relative;
+	left:5%;
+}
+ul.topnav{
+    font-family:Coolthing;
+    font-size: 120%;
+    margin: 0 auto;
+    padding: 0;
+	position:absolute;
+	left:30%;
+	top:80%;
+	color: #000000;
+}
+ul.topnav li{
+	
+    text-align: left;
+    float: left;
+    list-style: none;
+    padding: 3px 20px 3px 20px;
+    margin: 5px;
+}
+a:link {
+text-decoration:  none;
+COLOR: #333;
+}
+a:visited {
+text-decoration:  none;
+COLOR: #333;
+}
+a:hover {
+	text-decoration:  none;
+	color: #00ccff;
+	-moz-transition: color 1s linear;
+  	-webkit-transition: color 1s linear;
+  	transition: color 1s linear;
+}
+a:active {
+text-decoration:  none;
+COLOR: #009900;
+}
+#copyright
+{
+	font-family: 'BenchNine', sans-serif;
+	position: absolute;
+	left:45%;
+	color:#eee;
+}
+#social a{
+	padding:5px 20px 5px 20px;
+} 
+#contacts
+{
+	display:none;
+	text-align: center;
+	border-style: solid;
+	border-width:2px; 
+	font-family: 'Monda', sans-serif;
+	position: absolute;
+	left:25%;
+	top:10%;
+	background-color: #fff;
+	color:#000;
+	width:50%;
+	height: 50%;
+	z-index: 4;
+}
+#information
+{
+	display:none;
+	border-style: solid;
+	border-width:2px; 
+	font-family: Coolthing;
+	position: absolute;
+	left:25%;
+	top:10%;
+	background-color: #fff;
+	color:#000;
+	width:50%;
+	height: 50%;
+	z-index: 4;
+}
+#infomenu
+{
+  background-color:black;
+  color:white;
+  height:100%;
+  left:0;
+  min-width:20px;
+  position:absolute;
+  width:20%;
+}
