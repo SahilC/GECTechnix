@@ -29,9 +29,9 @@ body{
 .section p{
     position: relative;
     left:7%;
-    top:2%;
+    top:1%;
     margin:20px 0px 0px 50px;
-    width:600px;
+    width:700px;
 }
 .section img{
     position:absolute;
@@ -111,13 +111,13 @@ body{
     height: 87%;
     left:-18%;
     top:8%;
-    padding: 10px 10px;
+    padding: 5px 10px;
     line-height: 45px;
 }
 #menu li{ 
     text-align: left;
-    padding-top: 7px;
-    padding-bottom: 7px;
+    padding-top: 3px;
+    padding-bottom: 3px;
 }
 #menu a{
     text-align: center;
